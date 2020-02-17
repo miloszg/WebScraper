@@ -1,1 +1,6 @@
 c:\users\kdr\documents\visual studio 2015\Projects\WebScraper\WebScraper\bin\Debug\WebScraper.exe.config
+C:\Users\KDR\documents\visual studio 2015\Projects\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\KDR\documents\visual studio 2015\Projects\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\KDR\documents\visual studio 2015\Projects\WebScraper\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\KDR\documents\visual studio 2015\Projects\WebScraper\WebScraper\obj\Debug\WebScraper.exe
+C:\Users\KDR\documents\visual studio 2015\Projects\WebScraper\WebScraper\obj\Debug\WebScraper.pdb
